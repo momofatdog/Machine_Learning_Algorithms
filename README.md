@@ -1,1 +1,1 @@
-# Machine_Learning_Algorithms
+# INDE577-Machine Learning Algorithms
