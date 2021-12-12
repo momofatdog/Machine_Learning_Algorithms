@@ -24,3 +24,6 @@ Some of the algorithms that come under supervised learning are as follows:
 * Multiple Layer Perception
 * Ensemble Learning
 * Decision Tree
+
+## Reference
+Education, I. C. (2020, August 19). What Is Supervised Learning?. What is Supervised Learning? | IBM. https://www.ibm.com/cloud/learn/supervised-learning.
