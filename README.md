@@ -4,19 +4,20 @@ by Mengting Wang
 Instructor: Randy R. Davila 
 
 
-This is a repository of all projects created in my INDE577 Data Science and Machine Learning during the Fall 2021 semester at Rice University. This data science course covers algorithms from supervised learning, unsupervised learning, and if time permits, reinforcement learning.
+This is a repository for all projects completed in my INDE577 Data Science and Machine Learning class at Rice University for the Fall 2021 semester. This data science course includes algorithms from supervised learning, unsupervised learning, and reinforcement learning. This course is primarily reliant on programming, and I utilized **Python** as my programming language. Sub-repositories of this repository will contain data sets, README files, and Jupyter notebooks displaying implementations of the algorithms covered in this course.
 
 ![ML](https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/03/31/6b274220-2af8-47db-9e71-adb88fd7855c.jpg)
 
 
-The following topics are covered in this repository:
+\Large{The following topics are covered in this repository:}
 
-**Supervised Learning:**
+* **Supervised Learning:**
 
 * Linear Regression
-* Gradient Descent
 * Logistic Regression
-* Neural Nets
+* Gradient Descent
+* Perception
+* Multiple Layer Perception
 * K-Nearest Neighbors
 * Decision Trees
 * Ensemble Learning
@@ -26,5 +27,5 @@ The following topics are covered in this repository:
 
 * K-Means Clustering
 
-Progamming Tool:
-Python
+\Large{Programming Language}
+[Python](https://www.python.org)
