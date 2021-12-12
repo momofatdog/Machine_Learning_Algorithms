@@ -9,7 +9,7 @@ This is a repository for all projects completed in my INDE577 Data Science and M
 ![ML](https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/03/31/6b274220-2af8-47db-9e71-adb88fd7855c.jpg)
 
 
-## Topics covered in this repository:
+## Topics covered in this repository
  **Supervised Learning:**
 
 * Linear Regression
