@@ -1,2 +1,2 @@
 # Decision Trees
-![DT](https://cdn.educba.com/academy/wp-content/uploads/2019/11/Decision-Tree-in-Machine-Learning.png)
+![DT](https://cdn-images-1.medium.com/max/778/1*OLJWt9hD2zTS-x3gRhYuqg.png)
