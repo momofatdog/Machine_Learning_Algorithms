@@ -9,9 +9,8 @@ This is a repository for all projects completed in my INDE577 Data Science and M
 ![ML](https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/03/31/6b274220-2af8-47db-9e71-adb88fd7855c.jpg)
 
 
-\Large{The following topics are covered in this repository:}
-
-* **Supervised Learning:**
+## The following topics are covered in this repository:
+ **Supervised Learning:**
 
 * Linear Regression
 * Logistic Regression
@@ -27,5 +26,5 @@ This is a repository for all projects completed in my INDE577 Data Science and M
 
 * K-Means Clustering
 
-\Large{Programming Language}
+## Programming Language
 [Python](https://www.python.org)
