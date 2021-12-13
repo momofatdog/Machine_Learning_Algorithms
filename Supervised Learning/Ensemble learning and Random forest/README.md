@@ -1,6 +1,12 @@
 # Ensemble learning and Random forest
 
-## Bagging Ensemble Learning
+Ensemble methods are strategies that try to improve the accuracy of model findings by mixing numerous models rather than utilizing a single model. The combination of models considerably improves the accuracy of the results. This has increased the popularity of ensemble approaches in machine learning.
+
+* Ensemble methods aim at improving predictability in models by combining several models to make one very reliable model.
+* The most popular ensemble methods are boosting, bagging, and stacking.
+* Ensemble methods are ideal for regression and classification, where they reduce bias and variance to boost the accuracy of models.
+
+## Bagging 
 Bagging, also known as Bootstrap Aggregating. Bagging derives its name from the fact that it combines Bootstrapping and Aggregation into a single ensemble model. Multiple bootstrapped subsamples are drawn from a sample of data. On each of the bootstrapped subsamples, a Decision Tree is created. Following the formation of each subsample Decision Tree, an algorithm is used to aggregate across the Decision Trees to build the most efficient predictor. 
 ![](https://miro.medium.com/max/1400/0*PBGJw23ud8Sp7qO4.)
 
