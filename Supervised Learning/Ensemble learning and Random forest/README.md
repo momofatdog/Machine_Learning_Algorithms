@@ -23,7 +23,7 @@ There are 270 observations and 5 variables in the heart disease data. The binary
 * Age
 * Sex
 * Blood Pressure
-* cholestrol
+* Cholestrol
 
 ## Package 
 I will use the following packages in this project:
