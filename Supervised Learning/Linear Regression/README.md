@@ -1,11 +1,5 @@
 # Linear Regression
-This project covers the algorithm of linear Regression for lagged Time-Series variables. Time series forecasting has enormous commercial significance because stuff that is important to a business like demand and sales, number of visitors to a website, stock price etc are essentially time series data. We forecast the variable of interest in a multiple regression model using a linear combination of predictors. We predict the variable of interest in an autoregression model by utilizing a linear combination of the variable's historical values. The word autoregression refers to a regression of a variable against itself.
-
-An autoregressive model of order p can be written as:
-
-$$y_t = c+\phi_1y_{t-1}+\phi_2y_{t-2}+...\phi_py_{t-p}+\epsilon_t. $$
-
-where $\epsilon_t$ is white noise. This is like a multiple regression but with lagged values of $y_t$ as predictors. We refer to this as an AR(p) model, an autoregressive model of order p.
+This project focuses on the linear regression technique for lagged Time-Series variables. Time series forecasting has huge economic relevance since vital business data such as demand and sales, the number of visits to a website, stock price, and so on are fundamentally time series data. In a multiple regression model, we forecast the variable of interest using a linear combination of predictors. In an autoregression model, we forecast the variable of interest by using a linear combination of the variable's past values. Autoregression is the regression of a variable against itself.
 
 ## Data
 I will use **Alphabet Inc (NASDAQ: GOOGL)** closing stock price as a sample time series data.
