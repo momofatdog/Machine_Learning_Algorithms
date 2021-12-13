@@ -29,4 +29,8 @@ I will use the following packages in this project:
 * [numpy](https://numpy.org)
 * [pandas](https://pandas.pydata.org)
 * [sklearn](https://scikit-learn.org/stable/)
+   * [DecisionTreeClassifier]((https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html?highlight=decision%20tree#sklearn.tree.DecisionTreeClassifier))
+   * [DecisionTreeRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html)
 
+## Reference
+R, A. (2021, August 12). The Basics Of Decision Trees. Decision Tree Algorithms - Part 1 | By Arif R | DataDrivenInvestor. Medium. https://medium.datadriveninvestor.com/the-basics-of-decision-trees-e5837cc2aba7.
