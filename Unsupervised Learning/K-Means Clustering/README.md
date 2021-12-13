@@ -28,6 +28,12 @@ I will use the following packages in this project:
 * [matplotlib.pyplot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)
 * [numpy](https://numpy.org)
 * [pandas](https://pandas.pydata.org)
+* [sklearn](https://scikit-learn.org/stable/)
+  * [KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+  * [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+  * [silhouette_samples](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_samples.html)
+  * [silhouette_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html) 
+* [ mpl_toolkits](https://matplotlib.org/2.2.2/mpl_toolkits/index.html)
 
 ## Reference
 
@@ -36,10 +42,4 @@ Dabbura, I. (2020, August 10). K-means Clustering: Algorithm, Applications, Eval
 J. Garbade, D. M. (2018, September 12). Understanding K-means Clustering In Machine Learning | By Dr. Michael J. Garbade | Towards Data Science. Medium. https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1.
 
 A Guide To Principal Component Analysis (PCA) for Machine Learning. (n.d.). A Guide to Principal Component Analysis (PCA) for Machine Learning. https://www.keboola.com/blog/pca-machine-learning.
-* [sklearn](https://scikit-learn.org/stable/)
-  * [KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
-  * [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
-  * [silhouette_samples](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_samples.html)
-  * [silhouette_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html) 
-* [ mpl_toolkits](https://matplotlib.org/2.2.2/mpl_toolkits/index.html)
 
