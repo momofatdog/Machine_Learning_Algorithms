@@ -1,6 +1,9 @@
 # Linear Regression
 This project focuses on the linear regression technique for lagged Time-Series variables. Time series forecasting has huge economic relevance since vital business data such as demand and sales, the number of visits to a website, stock price, and so on are fundamentally time series data. In a multiple regression model, we forecast the variable of interest using a linear combination of predictors. In an autoregression model, we forecast the variable of interest by using a linear combination of the variable's past values. Autoregression is the regression of a variable against itself.
 
+
+<img src="https://editor.analyticsvidhya.com/uploads/466362%20_image.png" width="800" height="400" />
+
 ## Data
 I will use **Alphabet Inc (NASDAQ: GOOGL)** closing stock price as a sample time series data.
 
